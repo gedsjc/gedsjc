@@ -1,41 +1,70 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Gideão!;" />
 </h1>
-
+<div align="center">  
+      <h3 align="center">
 Meu nome é Gideão Costa,Sou um Analista de Sistemas e Desenvolvedor de Software formado em Sistema de Informação e Engenharia de Software. Com experiência em Infraestrutura de Rede, Internet, redes TCP/IP, e sistemas ERP como Totvs Protheus, Teknisa e Sankhya. Possuo conhecimento em SQL Server, GLPI, Zabbix, criação de relatórios no Ireport, e em servidores de AD Controlador de Domínio.
+ </h3>
 
 # Meus Conhecimentos Específicos Incluem:
 
-- Administração/Configuração de servidores.
-- Preparação de backups.
-- Firewall (Softwares pfSense).
-- Configuração de domínios.
-- Configuração e implementação de Software de portal de chamados (Redmine e GLPI).
-- Configuração e implementação de software de monitoramento Zabbix.
-- Implementação de Softwares de Chat (pidgin e Spark).
-- Configuração e implementação Docker.
-- SO Linux e Windows.
-- Ferramentas Microsoft.
-- Ferramentas Linux.
-- Vagrant Cloud.
-- Java.
-- GitHub.
-- HTML.
-- BD MySQL.
-- BD Oracle.
-- VMware.
-- Google Devops.
-- Admin console.
-- API.
-- Montagem e Manutenção de Microcomputadores.
-- Aplicações para Internet.
-- Programas para identificação e reparo de problemas de software e hardware.
-- Plataforma Delphi em rede.
-- Plataforma WEB.
-- Acompanhamento de implantação ERP.
-- Suporte Helpdesk.
-- Suporte n1, n2, n3.
-- Configuração e manutenção PABX e Voip.
+ ▶️ Administração/Configuração de servidores◀️
+ 
+ ▶️ Preparação de backups◀️
+ 
+ ▶️ Firewall (Softwares pfSense)◀️
+ 
+ ▶️ Configuração de domínios◀️
+ 
+ ▶️ Configuração e implementação de Software de portal de chamados (Redmine e GLPI)◀️
+ 
+ ▶️ Configuração e implementação de software de monitoramento Zabbix◀️
+ 
+ ▶️Implementação de Softwares de Chat (pidgin e Spark)◀️
+ 
+ ▶️Configuração e implementação Docker◀️
+ 
+ ▶️SO Linux e Windows◀️
+ 
+ ▶️Ferramentas Microsoft◀️
+ 
+ ▶️Ferramentas Linux◀️
+ 
+ ▶️Vagrant Cloud◀️
+ 
+ ▶️Java◀️
+ 
+ ▶️GitHub◀️
+ 
+ ▶️HTML◀️
+ 
+ ▶️BD MySQL◀️
+ 
+ ▶️BD Oracle◀️
+ 
+ ▶️VMware◀️
+ 
+ ▶️Google Devops◀️
+ 
+ ▶️Admin console◀️
+ 
+ ▶️Montagem e Manutenção de Microcomputadores◀️
+ 
+ ▶️Aplicações para Internet◀️
+ 
+ ▶️Programas para identificação e reparo de problemas de software e hardware◀️
+ 
+ ▶️Plataforma Delphi em rede◀️
+ 
+ ▶️Plataforma WEB◀️
+ 
+ ▶️Acompanhamento de implantação ERP◀️
+ 
+ ▶️Suporte Helpdesk◀️
+ 
+ ▶️Suporte n1, n2, n3◀️
+ 
+ ▶️Configuração e manutenção PABX e Voip◀️
 
 <div align="center">  
       <h3 align="center">
