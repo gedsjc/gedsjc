@@ -63,12 +63,6 @@ Meu nome é Gideão Costa,Sou um Analista de Sistemas e Desenvolvedor de Softwar
       
   </div>
 
-
-
-
-
-
-
   <div>
     <h1 align="center">Languages and Tools:</h3>
     <p align="left">
@@ -132,15 +126,15 @@ Meu nome é Gideão Costa,Sou um Analista de Sistemas e Desenvolvedor de Softwar
         <a title="MariaDB" href="https://mariadb.com/about-us/logos/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg?raw=true" alt="MariaDB" width="85" height="85"/>
       </a
+    <a title="Windows" href="https://www.microsoft.com/pt-br/windows/" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/52775/windows.svg?raw=true" alt="MariaDB" width="85" height="85"/>
+      </a    
+    <a title="office365" href="https://www.office.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/303162/office-365-logo.svg?raw=true" alt="MariaDB" width="85" height="85"/>
+      </a          
     </p>
   </div>
   <hr>
-
-# Sistema Operacional
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
