@@ -128,7 +128,10 @@ Meu nome é Gideão Costa,Sou um Analista de Sistemas e Desenvolvedor de Softwar
       </a>
       <a title="Linux" href="https://www.gnu.org/distros/free-distros.html" target="_blank" rel="noreferrer">
         <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/linux.png?raw=true" alt="linux" width="85" height="85"/>
-      </a>
+      </a> 
+        <a title="MariaDB" href="https://mariadb.com/about-us/logos/" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg?raw=true" alt="MariaDB" width="85" height="85"/>
+      </a
     </p>
   </div>
   <hr>
