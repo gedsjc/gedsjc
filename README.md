@@ -6,7 +6,7 @@
 Meu nome é Gideão Costa,Sou um Analista de Sistemas e Desenvolvedor de Software formado em Sistema de Informação e Engenharia de Software. Com experiência em Infraestrutura de Rede, Internet, redes TCP/IP, e sistemas ERP como Totvs Protheus, Teknisa e Sankhya. Possuo conhecimento em SQL Server, GLPI, Zabbix, criação de relatórios no Ireport, e em servidores de AD Controlador de Domínio.
  </h3>
 
-# Meus Conhecimentos Específicos Incluem:
+# Meus Conhecimentos Específicos Incluem
 
  ▶️ Administração/Configuração de servidores◀️
  
