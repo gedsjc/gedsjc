@@ -37,31 +37,101 @@ Meu nome é Gideão Costa,Sou um Analista de Sistemas e Desenvolvedor de Softwar
 - Suporte n1, n2, n3.
 - Configuração e manutenção PABX e Voip.
 
+<div align="center">  
+      <h3 align="center">
+      Para saber mais sobre mim, por favor, entre em contato. Estou ansioso para conectar e compartilhar mais sobre minha experiência e habilidades.
+      </h3>
+    </div>    
+    <p align="center">
+      <a target="_blank" href="https://www.linkedin.com/in/gide%C3%A3o-j%C3%A9fani-0629b410b/">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/linkedin.png?raw=true" width="50" height="50"/>
+      </a>
+      <a target="_blank" href="mailto:sistemagideao@gmail.com">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/gmail.png?raw=true" width="50" height="50"/>
+      </a>
+      <a target="_blank" href="https://api.whatsapp.com/send?phone=5531984580449">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/whatsapp.png?raw=true" width="50" height="50"/>
+      </a>
+           </a>
+      <a target="_blank" href="https://t.me/Gedsjc">
+        <img src="https://www.svgrepo.com/show/452115/telegram.svg?raw=true" width="50" height="50"/>
+      </a>
 
-# Para saber mais sobre mim, por favor, entre em contato. Estou ansioso para conectar e compartilhar mais sobre minha experiência e habilidades.
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531984580449)
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Gedsjc)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sistemagideao@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gide%C3%A3o-j%C3%A9fani-0629b410b/)
-
-# Linguagens
-
-![apache](https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![javas](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<a target="_blank" href="https://www.instagram.com/gedsjc/">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg?raw=true" width="50" height="50"/>
+      </a>
+      
+  </div>
 
 
 
-# Databases
-![debeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![postgree](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+  <div>
+    <h1 align="center">Languages and Tools:</h3>
+    <p align="left">
+      <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/javascript.png?raw=true" alt="javascript" width="80" height="80"/>
+      </a>
+      <a title="Typescript" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/typescript.png?raw=true" alt="typescript" width="80" height="80"/>
+      </a>
+      <a title="HTML 5" href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/html(5).png?raw=true" alt="html 5" width="80" height="92"/>
+      </a>
+      <a title="CSS 3" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/css(3).png?raw=true" alt="css3" width="80" height="95"/>
+      </a>
+      <a title="Bootstrap" href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="80" height="90"/>
+      </a>
+      <a title="React.JS" href="https://reactjs.org/" target="_blank">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/react.png?raw=true" alt="react" width="80" height="83"/>
+      </a>
+      <a title="Redux" href="https://redux.js.org/" target="_blank">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/redux.png?raw=true" alt="redux" width="80" height="80"/>
+      </a>
+      <a title="Angular" href="https://angular.io/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/angular.png?raw=true" alt="angular" width="85" height="80"/>
+      </a>
+      <a title="Node.JS" href="https://nodejs.org" target="_blank">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/node(js).png?raw=true" alt="nodejs" width="80" height="85"/>
+      </a>
+      <a title="Express.JS" href="https://expressjs.com" target="_blank">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/express.png?raw=true" alt="express" width="80" height="85"/>
+      </a>
+      <a title="MongoDB" href="https://www.mongodb.com/" target="_blank">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/mongodb.png?raw=true" alt="mongodb" width="80" height="90"/>
+      </a>
+      <a title="MySQL" href="https://www.mysql.com/" target="_blank">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/my-sql.png?raw=true" alt="mysql" width="80" height="85"/>
+      </a>
+      <a title="Sequelize" href=" https://sequelize.org/master/index.html" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/sequelize.png?raw=true" alt="sequelize" width="85" height="85"/>
+      </a>
+      <a title="Jest" href="https://jestjs.io" target="_blank">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/jest.png?raw=true" alt="jest" width="85" height="85"/>
+      </a>
+      <a title="Mocha" href="https://mochajs.org" target="_blank">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/mocha.png?raw=true" alt="mocha" width="85" height="85"/>
+      </a>
+      <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/python.png?raw=true" alt="python" width="85" height="85"/>
+      </a>
+            <a title="JAVA" href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg?raw=true" alt="python" width="85" height="85"/>
+      </a>
+      <a title="Docker" href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/docker.png?raw=true" alt="docker" width="85" height="85"/>
+      </a>
+      <a title="Linux" href="https://www.gnu.org/distros/free-distros.html" target="_blank" rel="noreferrer">
+        <img src="https://github.com/ArlessonMoura/ArlessonMoura/blob/main/img/linux.png?raw=true" alt="linux" width="85" height="85"/>
+      </a>
+    </p>
+  </div>
+  <hr>
 
 # Sistema Operacional
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -69,12 +139,8 @@ Meu nome é Gideão Costa,Sou um Analista de Sistemas e Desenvolvedor de Softwar
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-# Serviço de Computação em Nuvem
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
-![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
 </h1>
+
+
