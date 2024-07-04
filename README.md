@@ -1,4 +1,6 @@
-# Olá pessoal, sejam bem vindos ao meu GitHub 👋 !!!
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Gideão!;" />
+</h1>
 
 Meu nome é Gideão Costa,Sou um Analista de Sistemas e Desenvolvedor de Software formado em Sistema de Informação e Engenharia de Software. Com experiência em Infraestrutura de Rede, Internet, redes TCP/IP, e sistemas ERP como Totvs Protheus, Teknisa e Sankhya. Possuo conhecimento em SQL Server, GLPI, Zabbix, criação de relatórios no Ireport, e em servidores de AD Controlador de Domínio.
 
@@ -52,6 +54,8 @@ Meu nome é Gideão Costa,Sou um Analista de Sistemas e Desenvolvedor de Softwar
 ![javas](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+
+
 # Databases
 ![debeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -70,3 +74,7 @@ Meu nome é Gideão Costa,Sou um Analista de Sistemas e Desenvolvedor de Softwar
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
