@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Gideão!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Gideão!;" />
 </h1>
 
 Meu nome é Gideão Costa,Sou um Analista de Sistemas e Desenvolvedor de Software formado em Sistema de Informação e Engenharia de Software. Com experiência em Infraestrutura de Rede, Internet, redes TCP/IP, e sistemas ERP como Totvs Protheus, Teknisa e Sankhya. Possuo conhecimento em SQL Server, GLPI, Zabbix, criação de relatórios no Ireport, e em servidores de AD Controlador de Domínio.
@@ -76,5 +76,5 @@ Meu nome é Gideão Costa,Sou um Analista de Sistemas e Desenvolvedor de Softwar
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
 </h1>
